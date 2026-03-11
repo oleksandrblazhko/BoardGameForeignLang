@@ -21,9 +21,10 @@ https://arxiv.org/pdf/2207.00798
 10) ARbis Pictus: A Study of Vocabulary Learning with Augmented Reality
 https://arxiv.org/pdf/1711.11243
 11) Application of augmented reality in the linguistic and literary education of primary school students
-12) ДОПОВНЕНА РЕАЛЬНІСТЬ ЯК ЕФЕКТИВНИЙ ІНСТРУМЕНТ ВДОСКОНАЛЕННЯ ВМІНЬ ГОВОРІННЯ НА УРОКАХ АНГЛІЙСЬКОЇ МОВИ
+  DOI: https://doi.org/10.55056/cte.689
+13) ДОПОВНЕНА РЕАЛЬНІСТЬ ЯК ЕФЕКТИВНИЙ ІНСТРУМЕНТ ВДОСКОНАЛЕННЯ ВМІНЬ ГОВОРІННЯ НА УРОКАХ АНГЛІЙСЬКОЇ МОВИ
 https://vspu.net/sit/index.php/sit/article/view/5633/5061
-13) Augmented Reality in English Language Acquisition Among Gifted Learners: A Systematic Scoping Review (2020–2025)
+14) Augmented Reality in English Language Acquisition Among Gifted Learners: A Systematic Scoping Review (2020–2025)
 https://www.mdpi.com/2076-3417/15/21/11487
-14) Enhancing Language Learning Experience with Augmented Reality Games: A Systematic Review of Empirical Studies from 2019–2023
+15) Enhancing Language Learning Experience with Augmented Reality Games: A Systematic Review of Empirical Studies from 2019–2023
 https://online-journals.org/index.php/i-jet/article/view/53609/16311
